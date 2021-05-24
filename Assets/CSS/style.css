@@ -59,7 +59,7 @@ header {
 }
 
 .card-footer::before {
-  ontent: " ";
+  content: " ";
   display: block;
   width: 100%;
   background: #e7e9eb;
