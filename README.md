@@ -3,7 +3,7 @@
 ## Preview:
 Check out this [password generator]()!
 
-[![website demo] 
+[![website demo](docs/passwordgenerator.gif)](https://media.giphy.com/media/j1m0wDb49Dcdma7GhF/giphy.gif) 
 
 ## The Task:
 
