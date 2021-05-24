@@ -14,7 +14,7 @@ Create a password generator that:
 - Generates a password once all prompts are answered
 - Displays generated password to the page
 
-For additional details, please refer to the [Gitlab] (https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-bo-fsf-pt-04-2021-u-b/tree/master/03-JavaScript/02-Challenge) project requirements for Challenge 3.
+For additional details, please refer to the [Gitlab](https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-bo-fsf-pt-04-2021-u-b/tree/master/03-JavaScript/02-Challenge) project requirements for Challenge 3.
 
 ## Technologies Used:
 
