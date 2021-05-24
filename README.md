@@ -2,9 +2,9 @@
 
 ## Preview:
 
-Check out this [password generator]()!
+Check out this [password generator](https://jessicaakelley.github.io/password-generator/)!
 
-[![website demo]
+[![website demo](docs/passwordgenerator.gif)](https://media.giphy.com/media/j1m0wDb49Dcdma7GhF/giphy.gif)
 
 ## The Task:
 
