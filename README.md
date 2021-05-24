@@ -1,9 +1,10 @@
 # Jessica Kelley - Password Generator
 
 ## Preview:
+
 Check out this [password generator]()!
 
-[![website demo] 
+[![website demo]
 
 ## The Task:
 
